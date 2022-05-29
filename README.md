@@ -21,5 +21,8 @@
 * Sekarang karena ECMAScript dna JavaScript sama, sekarang bisa dibilang ECMAScript dan JavaScript adalah dua nama untuk satu bahasa pemrograman yang sama.
 * [https://www.ecma-international.org/](https://www.ecma-international.org/)
 
+## JavaScript vs Java
 
-
+* Pemula programmer sering salah tentang JavaScript dan Java. Ada yang mengira bahwa Java dan JavaScript adalah bahasa pemrograman yang sama, padahal itu berbeda.
+* Java adalah bahasa pemrograman lain, tidak ada hubungan nya dengan JavaScript
+* Walaupun namanya ada kata "Java" nya, tapi dua bahasa pemrograman ini benar-benar berbeda, tidak ada hubungannya sama sekali.
