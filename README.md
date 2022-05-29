@@ -12,3 +12,14 @@
 * Awalnya JavaScript memang kebanyakan digunakan untuk berjalan di client side ( Browser ).
 * Namun akhir-akhir ini, semenjak keluar teknologi NodeJS ( dengan menggunakan engine yang diambil dari engine yang ada di Google Chrome yang bernama V8 Engine ) yang bisa digunakan untuk menjalankan JavaScript tanpa browser, sekarang akhirnya JavaScript juga banyak digunakan untuk membuat aplikasi di Server.
 * Karena ini, akhirnya sekarang JavaScript dikenal dengan bahasa pemrograman FullStack ( Backend dan Frontend ) karena bisa digunakan untuk membuat aplikasi Backend dan aplikasi Frontend
+
+## JavaScript dan ECMAScript
+
+* Karena JavaScript sekarang hampir di adopsi oleh semua aplikasi browser, akhirnya dibuatlah sebuah standarisasi yang bernama ECMAScript.
+* Organisasi yang melakukan standarisasi ECMAScript adalah ECMA International.
+* Sekarang dengan adanya standarisasi, kita bisa pastikan bahwa kode program JavaScript kita bisa jalan di semua browser, karena browser yang ingin mendukung JavaScript, harus mengikuti standarisasi ECMAScript.
+* Sekarang karena ECMAScript dna JavaScript sama, sekarang bisa dibilang ECMAScript dan JavaScript adalah dua nama untuk satu bahasa pemrograman yang sama.
+* [https://www.ecma-international.org/](https://www.ecma-international.org/)
+
+
+
