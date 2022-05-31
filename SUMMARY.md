@@ -1,6 +1,6 @@
 # Table of contents
 
-## Javascript Dasar
+## Pendahuluan
 
 * [Pengenalan JavaScript](README.md)
-* [Hello World](javascript-dasar/hello-world.md)
+* [Hello World](pendahuluan/hello-world.md)
